@@ -20,17 +20,4 @@
 
 ---
 
-## 📌 Projects  
-
-| Project | Tech Stack | Type |
-|----------|------------|------|
-| Flow Case Management System | React, Django, PostgreSQL | Individual |
-| Service Desk System | Django, REST API, DB | Full-Stack |
-| IETI Website | React, Django, MySQL | Full-Stack |
-| AETI Website | React, Django | Full-Stack |
-| Student Management System | Flutter, Firebase | Group |
-| 2D Car Racing Game | Unity | Individual |
-
----
-
 💡 Passionate about building scalable full-stack applications with clean architecture & secure APIs.
