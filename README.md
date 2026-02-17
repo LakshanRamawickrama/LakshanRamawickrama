@@ -1,4 +1,4 @@
-# Hi, I'm R.G.R. Lakshan 👋  
+# Hi, I'm Lakshan Ramawickrama 👋  
 ### Full Stack Software Engineer 🚀  
 
 📍 Sri Lanka  
