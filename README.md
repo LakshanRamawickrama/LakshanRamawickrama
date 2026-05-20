@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- 3D Animated Header — capsule-render is very reliable -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:1a1a2e&height=220&section=header&text=Lakshan%20Ramawickrama&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Software%20Engineer%20%F0%9F%9A%80&descAlignY=60&descAlign=50&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:1a1a2e&height=220&section=header&text=Lakshan%20Ramawickrama&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Freelancer%20%F0%9F%9A%80&descAlignY=60&descAlign=50&descSize=18" />
 
 <!-- Typing animation — demolab is the official & most stable host -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=AI+Engineer+%40+Whiterock+Global+Solutions+%F0%9F%A4%96;Building+Intelligent+Full-Stack+Applications+%E2%9A%A1;Next.js+%7C+Django+%7C+React+%7C+Flutter+%7C+ML+%F0%9F%9B%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=Full+Stack+Software+Engineer+%F0%9F%9B%A0;Freelance+Developer+%7C+Open+to+Projects+%F0%9F%A4%9D;Next.js+%7C+Django+%7C+React+%7C+Flutter+%7C+ML+%F0%9F%9B%A0" alt="Typing SVG" />
 
 <br/>
 
@@ -36,20 +36,19 @@
 ```typescript
 const lakshan: Developer = {
   name        : "Lakshan Ramawickrama",
-  role        : ["AI Engineer", "Full Stack Software Engineer"],
-  company     : "Whiterock Global Solutions (Pvt) Ltd",
+  role        : ["Full Stack Software Engineer", "Freelance Developer"],
   education   : "HNDIT — SLIATE Galle (2023 – Present)",
   location    : "Matara, Sri Lanka 🇱🇰",
   contact     : "rgrlakshan@gmail.com",
 
   currentWork : [
-    "Developing & deploying ML models with Python",
-    "Building AI-powered full-stack apps (Django + React + Next.js)",
+    "Freelancing — building web & mobile apps for clients",
+    "Developing full-stack apps with Django + React + Next.js",
     "Responsive frontend UI with React & Tailwind CSS",
   ],
 
   expertise   : ["AI/ML", "RESTful APIs", "JWT Auth", "RBAC", "SSR/Next.js"],
-  funFact     : "I turn data into intelligence and ideas into products 🤖🚀",
+  funFact     : "I turn ideas into products and data into intelligence 🤖🚀",
 };
 ```
 
@@ -61,16 +60,16 @@ const lakshan: Developer = {
 
 | Period | Role | Company |
 |:---:|:---:|:---:|
-| 🟢 Mar 2026 – Present | **AI Engineer** | Whiterock Global Solutions (Pvt) Ltd |
+| 🟢 Mar 2026 – Present | **Freelance Developer** | Self-Employed |
 | ✅ Sep 2025 – Mar 2026 | **Full Stack Engineer Intern** | NAITA Head Office |
 
 </div>
 
-**🤖 AI Engineer @ Whiterock Global Solutions** *(Mar 2026 – Present)*
-- Developing & deploying ML models — data preprocessing, feature engineering, performance optimization
-- Integrating AI functionalities into full-stack apps using Django, React, and Next.js
-- Building responsive frontend interfaces for AI-powered web applications with React & Tailwind CSS
-- Collaborating with cross-functional teams to deliver end-to-end AI solutions
+**💻 Freelance Developer** *(Mar 2026 – Present)*
+- Building custom web & mobile applications for clients across various domains
+- Developing full-stack solutions using Django, React, and Next.js
+- Delivering responsive, modern UIs with React & Tailwind CSS
+- Handling end-to-end project ownership — from requirements to deployment
 
 **🏛 Full Stack Intern @ NAITA Head Office** *(Sep 2025 – Mar 2026)*
 - Built RESTful APIs with Django & Python, implementing JWT authentication and RBAC
@@ -206,5 +205,5 @@ const lakshan: Developer = {
 <!-- Footer Wave -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,40:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" />
-  <sub>⭐ Star my repos & let's connect — always open to collaborating on impactful projects!</sub>
+  <sub>⭐ Star my repos & let's connect — always open to freelance projects and collaborations!</sub>
 </div>
