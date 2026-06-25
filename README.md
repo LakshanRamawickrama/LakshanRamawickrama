@@ -1,14 +1,13 @@
 <div align="center">
 
-<!-- 3D Animated Header — capsule-render is very reliable -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:1a1a2e&height=220&section=header&text=Lakshan%20Ramawickrama&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Freelancer%20%F0%9F%9A%80&descAlignY=60&descAlign=50&descSize=18" />
+<!-- 3D Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:1a1a2e&height=220&section=header&text=Lakshan%20Ramawickrama&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%F0%9F%9A%80&descAlignY=60&descAlign=50&descSize=18" />
 
-<!-- Typing animation — demolab is the official & most stable host -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=Full+Stack+Software+Engineer+%F0%9F%9B%A0;Freelance+Developer+%7C+Open+to+Projects+%F0%9F%A4%9D;Next.js+%7C+Django+%7C+React+%7C+Flutter+%7C+ML+%F0%9F%9B%A0" alt="Typing SVG" />
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=Software+Engineer+%40+Whiterock+Global+Solutions+%F0%9F%9B%A0;Full+Stack+Developer+%7C+React+%7C+Next.js+%7C+Django+%F0%9F%9A%80;Flutter+%7C+Docker+%7C+MongoDB+%7C+PostgreSQL+%F0%9F%9B%A0;Open+to+Freelance+Projects+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/>
 
-<!-- Static reliable badges only -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=LakshanRamawickrama&label=Profile+Views&color=7C3AED&style=for-the-badge" />
   <a href="https://www.linkedin.com/in/lakshanramawickrama">
@@ -36,19 +35,21 @@
 ```typescript
 const lakshan: Developer = {
   name        : "Lakshan Ramawickrama",
-  role        : ["Full Stack Software Engineer", "Freelance Developer"],
+  role        : ["Software Engineer", "Full Stack Developer"],
+  company     : "Whiterock Global Solutions (Pvt) Ltd",
   education   : "HNDIT — SLIATE Galle (2023 – Present)",
   location    : "Matara, Sri Lanka 🇱🇰",
   contact     : "rgrlakshan@gmail.com",
 
   currentWork : [
-    "Freelancing — building web & mobile apps for clients",
-    "Developing full-stack apps with Django + React + Next.js",
-    "Responsive frontend UI with React & Tailwind CSS",
+    "Building enterprise ERP & CRM systems at Whiterock Global Solutions",
+    "Full-stack development with Next.js, Django & MongoDB",
+    "Mobile app development with Flutter & Firebase",
+    "Application containerization & deployment with Docker",
   ],
 
-  expertise   : ["AI/ML", "RESTful APIs", "JWT Auth", "RBAC", "SSR/Next.js"],
-  funFact     : "I turn ideas into products and data into intelligence 🤖🚀",
+  expertise   : ["ERP/CRM Systems", "RESTful APIs", "JWT Auth", "RBAC", "SSR/Next.js", "Docker"],
+  funFact     : "I turn complex business problems into elegant software solutions 🤖🚀",
 };
 ```
 
@@ -60,22 +61,24 @@ const lakshan: Developer = {
 
 | Period | Role | Company |
 |:---:|:---:|:---:|
-| 🟢 Mar 2026 – Present | **Freelance Developer** | Self-Employed |
+| 🟢 Mar 2026 – Present | **Software Engineer** | Whiterock Global Solutions (Pvt) Ltd |
 | ✅ Sep 2025 – Mar 2026 | **Full Stack Engineer Intern** | NAITA Head Office |
 
 </div>
 
-**💻 Freelance Developer** *(Mar 2026 – Present)*
-- Building custom web & mobile applications for clients across various domains
-- Developing full-stack solutions using Django, React, and Next.js
-- Delivering responsive, modern UIs with React & Tailwind CSS
-- Handling end-to-end project ownership — from requirements to deployment
+**💻 Software Engineer @ Whiterock Global Solutions (Pvt) Ltd** *(Mar 2026 – Present)*
+- Developing and maintaining enterprise-level ERP and CRM systems using React, TypeScript, Next.js, and Django
+- Designing and implementing scalable RESTful APIs and backend services
+- Building and maintaining mobile applications using Flutter and Firebase
+- Managing business-critical data with MongoDB and other database technologies
+- Containerizing application services using Docker for consistent development, testing, and deployment workflows
+- Participating in system architecture design, code reviews, testing, debugging, and deployment activities
 
-**🏛 Full Stack Intern @ NAITA Head Office** *(Sep 2025 – Mar 2026)*
-- Built RESTful APIs with Django & Python, implementing JWT authentication and RBAC
+**🏛 Full Stack Engineer Intern @ NAITA Head Office** *(Sep 2025 – Mar 2026)*
+- Built RESTful APIs with Django & Python, implementing JWT authentication and role-based access control (RBAC)
 - Designed PostgreSQL & SQLite schemas, migrations, and data validation
 - Integrated backend services with React (TypeScript) + Tailwind CSS; built reusable UI component libraries
-- Delivered end-to-end modules covering API development, frontend integration, testing, and optimization
+- Delivered end-to-end full-stack modules covering API development, frontend integration, testing, and performance optimization
 
 ---
 
@@ -120,14 +123,15 @@ const lakshan: Developer = {
   <img src="https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### 🛠 Tools & Platforms
 <p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -139,7 +143,23 @@ const lakshan: Developer = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Professional Projects
+
+> 🔒 Enterprise projects developed at Whiterock Global Solutions & NAITA — source code is proprietary.
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|:---|:---:|:---|
+| 🏢 **ERP System** | Next.js · Django · MongoDB · Docker | Inventory, procurement, HR & finance modules; RBAC, Dockerized |
+| 📊 **CRM System** | Next.js · Django · MongoDB · Docker | Lead tracking, pipeline management, real-time analytics dashboard |
+| 🎫 **Service Desk System** | React TS · Django · PostgreSQL | Ticket management, request tracking, RBAC, JWT auth |
+| 🏫 **IETI Website** | React.js · Django · PostgreSQL | Institutional web platform, responsive UI, relational DB |
+| 🎣 **Deep Sea Fishing Mirissa** | JavaScript · Bootstrap | Tourism & booking platform, cross-device UI, inquiry features |
+
+</div>
+
+## 💡 Personal Projects
 
 <div align="center">
 
@@ -165,9 +185,8 @@ const lakshan: Developer = {
 
 </div>
 
-<!-- Streak stats — github-readme-streak-stats is most stable -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LakshanRamawickrama&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF5722&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
+  <img src="https://streak-stats.demolab.com?user=LakshanRamawickrama&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF5722&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
 </div>
 
 ---
@@ -175,7 +194,7 @@ const lakshan: Developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LakshanRamawickrama&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=8" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=LakshanRamawickrama&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" />
 </div>
 
 ---
@@ -183,7 +202,7 @@ const lakshan: Developer = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LakshanRamawickrama&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FF5722&area=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LakshanRamawickrama&theme=radical" />
 </div>
 
 ---
@@ -205,5 +224,5 @@ const lakshan: Developer = {
 <!-- Footer Wave -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,40:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" />
-  <sub>⭐ Star my repos & let's connect — always open to freelance projects and collaborations!</sub>
+  <sub>⭐ Star my repos & let's connect — always open to collaborations and freelance projects!</sub>
 </div>
