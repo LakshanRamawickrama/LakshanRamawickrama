@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:1a1a2e&height=220&section=header&text=Lakshan%20Ramawickrama&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%F0%9F%9A%80&descAlignY=60&descAlign=50&descSize=18" />
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=Software+Engineer+%40+Whiterock+Global+Solutions+%F0%9F%9B%A0;Full+Stack+&+Devops+Engineer%7C+React+%7C+Next.js+%7C+Django+%F0%9F%9A%80;Flutter+%7C+Docker+%7C+MongoDB+%7C+PostgreSQL+%F0%9F%9B%A0;Open+to+Freelance+Projects+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=Software+Engineer+%40+Whiterock+Global+Solutions+%F0%9F%9B%A0;Full+Stack+Developer+%7C+React+%7C+Next.js+%7C+Django+%F0%9F%9A%80;Flutter+%7C+Docker+%7C+MongoDB+%7C+PostgreSQL+%F0%9F%9B%A0;Open+to+Freelance+Projects+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/>
 
@@ -35,7 +35,7 @@
 ```typescript
 const lakshan: Developer = {
   name        : "Lakshan Ramawickrama",
-  role        : ["Software Engineer", "Full Stack & Devops Engineer"],
+  role        : ["Software Engineer", "Full Stack Developer"],
   company     : "Whiterock Global Solutions (Pvt) Ltd",
   education   : "HNDIT — SLIATE Galle (2023 – Present)",
   location    : "Matara, Sri Lanka 🇱🇰",
