@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:1a1a2e&height=220&section=header&text=Lakshan%20Ramawickrama&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%F0%9F%9A%80&descAlignY=60&descAlign=50&descSize=18" />
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=Software+Engineer+%40+Whiterock+Global+Solutions+%F0%9F%9B%A0;Full+Stack+Developer+%7C+React+%7C+Next.js+%7C+Django+%F0%9F%9A%80;Flutter+%7C+Docker+%7C+MongoDB+%7C+PostgreSQL+%F0%9F%9B%A0;Open+to+Freelance+Projects+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=Software+Engineer+%40+Whiterock+Global+Solutions+%F0%9F%9B%A0;Full+Stack+&+Devops+Engineer%7C+React+%7C+Next.js+%7C+Django+%F0%9F%9A%80;Flutter+%7C+Docker+%7C+MongoDB+%7C+PostgreSQL+%F0%9F%9B%A0;Open+to+Freelance+Projects+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/>
 
@@ -35,7 +35,7 @@
 ```typescript
 const lakshan: Developer = {
   name        : "Lakshan Ramawickrama",
-  role        : ["Software Engineer", "Full Stack Developer"],
+  role        : ["Software Engineer", "Full Stack & Devops Engineer"],
   company     : "Whiterock Global Solutions (Pvt) Ltd",
   education   : "HNDIT — SLIATE Galle (2023 – Present)",
   location    : "Matara, Sri Lanka 🇱🇰",
@@ -179,9 +179,10 @@ const lakshan: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LakshanRamawickrama&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=86400" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshanRamawickrama&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8&cache_seconds=86400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LakshanRamawickrama&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LakshanRamawickrama&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LakshanRamawickrama&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LakshanRamawickrama&theme=radical&utcOffset=+5.5" />
 
 </div>
 
@@ -191,13 +192,6 @@ const lakshan: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=LakshanRamawickrama&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" />
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -214,8 +208,8 @@ const lakshan: Developer = {
 | Degree | Institute | Year |
 |:---|:---|:---:|
 | 🎓 HNDIT — Information Technology | SLIATE, Galle | 2023 – Present |
-| 📐 A/L — Physical Science Stream (1B, 2S) | Matara Central College | 2020 |
-| 📚 O/L — 4A, 2B, 3C | Matara Central College | 2016 |
+| 📐 A/L — Physical Science Stream ( Matara Central College | 2020 |
+
 
 </div>
 
